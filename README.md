@@ -1,4 +1,4 @@
-#Task 7: Basic Sales Summary using SQLite and Python
+##Task 7: Basic Sales Summary using SQLite and Python
 
 ##Objective
 As part of the Data Analyst Internship, this task focused on extracting simple sales insights from an SQLite database using Python. The goal was to:
